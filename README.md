@@ -1,5 +1,5 @@
 # workaround-dynamic-ip
-Workaround buying a static ip and setting up a local web server. I did not wanted to pay for static ip to ISP so this is the procedure I followed to setup a local site that is acessable over internet. I wanted to setup solr for testing and its not possible on aws fre tire so I setup a local server for testing and devaloping.
+Workaround buying a static ip and setting up a local web server. I did not wanted to pay for static ip to ISP so this is the procedure I followed to setup a local site that is acessable over internet. I wanted to setup solr for testing and its not possible on aws free tire so I setup a local server for testing and devaloping.
 
 setup aws account
 
